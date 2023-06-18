@@ -1,3 +1,6 @@
+# fork(Seo Mi Young)
+실습을 하는 공간입니다.
+
 # 프론트엔드 개발 환경의 이해 
 
 "[프론트엔드 개발 환경의 이해와 실습](https://www.inflearn.com/course/프론트엔드-개발환경)" 강의 자료입니다.
