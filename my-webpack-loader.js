@@ -5,6 +5,5 @@
 */
 
 module.exports = function myWebpackLoader (content) {
-  console.log('myWebpackLoader가 작동함');
-  return content;
+  return content.replace('console.log(','alert(');
 }
